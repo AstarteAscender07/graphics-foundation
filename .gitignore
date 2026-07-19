@@ -1,0 +1,14 @@
+
+build/
+*.o
+*.exe
+*.out
+
+
+*.swp
+*.swo
+*~
+.netrwhist
+
+
+.DS_Store
