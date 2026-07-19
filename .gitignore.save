@@ -1,9 +1,0 @@
-build/
-*.o
-*.exe
-*.out
-
-
-.vscode/
-.DS_Store
-*.user
